@@ -1,8 +1,8 @@
 <div align="center">
 
-# Project Title
+# Morning Star
 
-Project Description
+Moving tomatoes efficiently
 
 </div>
 
@@ -10,8 +10,11 @@ Project Description
 ## Overview
 
 Project details
+Moving tomatoes efficiently
 
 ### Goals
+
+Create efficient algorithim
 
 List main objectives, problems you aim to solve.
 
